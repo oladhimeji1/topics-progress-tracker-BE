@@ -1,12 +1,14 @@
 const express = require("express");
 const fs = require("fs");
 var cors = require("cors");
+require('dotenv').config();
 
 const app = express();
 // express.urlencoded({extended:true})
 app.use(express.json());
 app.use(cors());
-const port = 3000;
+const port = process.env.port;
+
 
 var currentYear = '';
 app.use((req, res, next) => {
@@ -15,10 +17,9 @@ app.use((req, res, next) => {
   next();
 })
 
-// app.get('/', (req, res) => {
-//     // res.send('<p> Hello</p>')
-//     res.sendFile('./views/index.html', { root: __dirname })
-// });
+app.get('/', (req, res) => {
+  res.send('<p> Hello</p>')
+});
 
 app.get("/users", (req, res) => {
   if(!fs.existsSync(`json/${currentYear}`)){
@@ -406,4 +407,4 @@ app.use((req, res) => {
   res.status(404).sendFile("./views/404.html", { root: __dirname });
 });
 
-app.listen(port, () => console.log(`App running on port ${port}`));
+app.listen(process.env.PORT || port, () => console.log(`App running on port ${port}`));

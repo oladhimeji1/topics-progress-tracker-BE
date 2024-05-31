@@ -1,0 +1,94 @@
+{
+  "submittedTopics": [
+    {
+      "id": "SCI-18-CSC-093",
+      "name": "Oladimeji Abdulrazaq",
+      "topic": "Development",
+      "year": "Year 7",
+      "status": "Pending",
+      "subject": "EnglishLanguage",
+      "term": "firstTerm",
+      "newChartDataValue": "2"
+    },
+    {
+      "id": "SCI-18-CSC-093",
+      "name": "Oladimeji Abdulrazaq",
+      "topic": "Review of Narrative",
+      "year": "Year 7",
+      "status": "Rejected",
+      "subject": "EnglishLanguage",
+      "term": "firstTerm",
+      "newChartDataValue": "3"
+    },
+    {
+      "id": "SCI-18-CSC-093",
+      "name": "Oladimeji Abdulrazaq",
+      "topic": "Noun Clauses",
+      "year": "Year 7",
+      "status": "Approved",
+      "subject": "EnglishLanguage",
+      "term": "firstTerm",
+      "newChartDataValue": "4"
+    },
+    {
+      "id": "SCI-18-CSC-093",
+      "name": "Oladimeji Abdulrazaq",
+      "topic": "Monophthongs",
+      "year": "Year 7",
+      "status": "Approved",
+      "subject": "EnglishLanguage",
+      "term": "firstTerm",
+      "newChartDataValue": "5"
+    },
+    {
+      "id": "SCI-18-CSC-093",
+      "name": "Oladimeji Abdulrazaq",
+      "topic": "Indices",
+      "year": "Year 8",
+      "status": "Rejected",
+      "subject": "Hausa",
+      "term": "secondTerm",
+      "newChartDataValue": "3"
+    },
+    {
+      "id": "SCI-18-CSC-093",
+      "name": "Oladimeji Abdulrazaq",
+      "topic": "Indices",
+      "year": "Year 8",
+      "status": "Pending",
+      "subject": "Hausa",
+      "term": "secondTerm",
+      "newChartDataValue": "4"
+    },
+    {
+      "id": "SCI-18-CSC-093",
+      "name": "Oladimeji Abdulrazaq",
+      "topic": "Indices",
+      "year": "Year 8",
+      "status": "Pending",
+      "subject": "Hausa",
+      "term": "secondTerm",
+      "newChartDataValue": "2"
+    },
+    {
+      "id": "SCI-18-CSC-093",
+      "name": "Oladimeji Abdulrazaq",
+      "topic": "Indices",
+      "year": "Year 8",
+      "status": "Pending",
+      "subject": "Hausa",
+      "term": "secondTerm",
+      "newChartDataValue": "4"
+    },
+    {
+      "id": "SCI-18-CSC-093",
+      "name": "Oladimeji Abdulrazaq",
+      "topic": "Indices",
+      "year": "Year 8",
+      "status": "Pending",
+      "subject": "Hausa",
+      "term": "secondTerm",
+      "newChartDataValue": "2"
+    }
+  ]
+}

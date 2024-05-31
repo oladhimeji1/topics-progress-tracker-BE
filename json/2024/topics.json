@@ -1,0 +1,2226 @@
+{
+  "classes": {
+    "Year 7": {
+      "subjects": {
+        "Mathematics": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "EnglishLanguage": {
+          "firstTerm": [
+            {
+              "labels": [
+                "Development",
+                "Review of Noun Phrases",
+                "Noun Clauses",
+                "Adjectival Phrases",
+                "Adjectival Clauses",
+                "Review of Narrative",
+                "Descriptive Essays",
+                "Monophthongs",
+                "Diphthongs"
+              ],
+              "chartData": [
+                "2",
+                0,
+                "4",
+                0,
+                0,
+                "3",
+                0,
+                "5",
+                0
+              ]
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Science": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "InformationTechnology": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "IslamicReligionStudies": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "ArabicLanguage": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Quran": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "AzkarHadith": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "BusinessStudies": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "CreativeArt": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "NationalValues": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "PreVocationalStudies": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "History": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Hausa": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        }
+      }
+    },
+    "Year 8": {
+      "subjects": {
+        "Mathematics": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "EnglishLanguage": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Science": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "InformationTechnology": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "IslamicReligionStudies": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "ArabicLanguage": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Quran": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "AzkarHadith": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "BusinessStudies": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "CreativeArt": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "NationalValues": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "PreVocationalStudies": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "History": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Hausa": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [
+                "Indices",
+                "Indices",
+                "Indices",
+                "Indices",
+                "Indices",
+                "Indices",
+                "Indices",
+                "Indices"
+              ],
+              "chartData": [
+                "2",
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        }
+      }
+    },
+    "Year 9": {
+      "subjects": {
+        "Mathematics": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "EnglishLanguage": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Science": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "InformationTechnology": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "IslamicReligionStudies": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "ArabicLanguage": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Quran": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "AzkarHadith": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "BusinessStudies": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "CreativeArt": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "NationalValues": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "PreVocationalStudies": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "History": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Hausa": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        }
+      }
+    },
+    "Year 10": {
+      "subjects": {
+        "Mathematics": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "EnglishLanguage": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "ComputerScience": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "DataProcessing": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Civic": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Biology": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Physics": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Chemistry": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Economics": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Account": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Commerce": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "BusinessStudies": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Geography": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "IslamicReligiousStudies": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "FurtherMathematics": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "History": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "LiteratureInEnglish": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Government": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "ArtDesign": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "ArabicLanguage": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Quran": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "TechnicalDrawing": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        }
+      }
+    },
+    "Year 11": {
+      "subjects": {
+        "Mathematics": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "EnglishLanguage": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "ComputerScience": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "DataProcessing": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Civic": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Biology": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Physics": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Chemistry": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Economics": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Account": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Commerce": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "BusinessStudies": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Geography": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "IslamicReligiousStudies": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "FurtherMathematics": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "History": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "LiteratureInEnglish": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Government": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "ArtDesign": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "ArabicLanguage": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Quran": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "TechnicalDrawing": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        }
+      }
+    },
+    "Year 12": {
+      "subjects": {
+        "Mathematics": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "EnglishLanguage": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "ComputerScience": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "DataProcessing": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Civic": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Biology": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Physics": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Chemistry": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Economics": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Account": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Commerce": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "BusinessStudies": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Geography": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "IslamicReligiousStudies": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "FurtherMathematics": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "History": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "LiteratureInEnglish": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Government": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "ArtDesign": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "ArabicLanguage": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "Quran": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        },
+        "TechnicalDrawing": {
+          "firstTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "secondTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ],
+          "thirdTerm": [
+            {
+              "labels": [],
+              "chartData": []
+            }
+          ]
+        }
+      }
+    }
+  }
+}

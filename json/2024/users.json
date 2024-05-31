@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "Admin",
+      "psw": "00000"
+    },
+    {
+      "id": "SCI-18-CSC-092",
+      "name": "Mohammed Oladimeji",
+      "accessibility": "Limited",
+      "psw": "OD3MdBs",
+      "class": [
+        "Year 7",
+        "Year 8"
+      ]
+    }
+  ]
+}
